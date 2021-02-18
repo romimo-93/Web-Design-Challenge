@@ -110,3 +110,11 @@
     background: #333;
     color: white;
 }
+
+@media (max-width: 600px) {
+    .navbar-dark.bg-dark {
+        background-color: rgb(131, 214, 240) !important;
+    }
+
+
+}
